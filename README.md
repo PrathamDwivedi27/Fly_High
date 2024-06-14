@@ -8,4 +8,8 @@ Microservice Architecture : Microservice architecture, also known as ‘microser
 
 ## List & Links of all Service
 
-- Flight_and_Search_Service(https://github.com/PrathamDwivedi27/Flight_and_Search_Service)
+- Flight_and_Search_Service => https://github.com/PrathamDwivedi27/Flight_and_Search_Service
+- Auth_Service => https://github.com/PrathamDwivedi27/Auth_Service
+- Booking Service => https://github.com/PrathamDwivedi27/Booking_Service
+- Reminder Service => https://github.com/PrathamDwivedi27/ReminderService
+- API Gateway => https://github.com/PrathamDwivedi27/API_Gateway
